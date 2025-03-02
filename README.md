@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sudorahat
+- 👋 Hi, I’m Rahat Abbasi.
 - 👀 I’m a  Software Engineering
 - 🌱 I’m currently learning Full Stack Development
 
