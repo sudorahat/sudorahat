@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sudorahat
-- 👀 I’m interested in Software Engineering
+- 👀 I’m a  Software Engineering
 - 🌱 I’m currently learning Full Stack Development
 
 <!---
